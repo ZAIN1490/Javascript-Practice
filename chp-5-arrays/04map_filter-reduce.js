@@ -9,7 +9,7 @@ let newarr = arr.map((Element,index)=>{
 //for each modifies the arrays while map makes new one
 
 
-// ============================filter method========================
+// ============================filter method============
 //filter makes new array and not change real array
 let num = [45,78,0,2,54,23,68,2,75,32,13,45,65,43];
 let newarr2 = num.filter((value)=>{
